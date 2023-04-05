@@ -19,7 +19,7 @@ function App() {
             <hr></hr>
           </p>
           <p>
-            <Button variant="success">Contar</Button>{ }
+            <Button variant="success" type='submit'>Contar</Button>{ }
           </p>
         </center>
       </form>
